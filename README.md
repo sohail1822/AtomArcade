@@ -35,15 +35,15 @@ AtomArcade is an innovative platform that empowers researchers and developers to
 *Interface for generating custom molecules using SMILES notation.*
 
 ### Compound Search Page
-![Compound Search Screenshot](path/to/compound_search_screenshot.png)
+![Compound Search Screenshot](./public/images/Compund_Search.png)
 *Search for compounds easily with an intuitive search functionality.*
 
 ### Real-Time Chat Page
-![Real-Time Chat Screenshot](path/to/chat_page_screenshot.png)
+![Real-Time Chat Screenshot](./public/images/Research_Page.png)
 *Engage in real-time discussions with team members through integrated chat.*
 
 ### Account Settings Page
-![Account Settings Screenshot](path/to/account_settings_screenshot.png)
+![Account Settings Screenshot](./public/images/Settings.png)
 *Manage your account settings, including password resets and theme preferences.*
 
 *(Make sure to replace the paths with the actual paths to your screenshot images.)*
