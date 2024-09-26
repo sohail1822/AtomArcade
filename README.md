@@ -27,11 +27,11 @@ AtomArcade is an innovative platform that empowers researchers and developers to
 ## Screenshots
 
 ### Dashboard Page
-![Dashboard Screenshot](path/to/dashboard_screenshot.png)
+![Dashboard Screenshot](./public/images/Dashboard.png)
 *An overview of the dashboard, showcasing key functionalities and metrics.*
 
 ### Molecule Generation Page
-![Molecule Generation Screenshot](path/to/molecule_generation_screenshot.png)
+![Molecule Generation Screenshot](./public/images/Generate_Molecule.png)
 *Interface for generating custom molecules using SMILES notation.*
 
 ### Compound Search Page
