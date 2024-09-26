@@ -70,18 +70,38 @@ cd backend
 ```bash
 npm install
 ```
+### Start the backend server:
 
+```bash
+node server.js
+```
+### Run the Frontend
+Open a new terminal window and navigate back to the root directory:
 
-Access the Application
+```bash
+cd ..
+```
+### Install frontend dependencies:
+
+```bash
+npm install
+```
+### Start the frontend application:
+
+```bash
+npm run dev
+```
+
+### Access the Application
 Open your browser and navigate to http://localhost:3000 to access the frontend.
 
-Contributing
+### Contributing
 Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure to follow the project's coding standards.
 
-License
+### License
 This project is licensed under the MIT License. See the LICENSE file for details.
 
-Acknowledgments
+### Acknowledgments
 RDKit: For cheminformatics functionalities.
 Nvidia Molmin: For advanced molecular generation.
 Ably: For real-time communication capabilities.
