@@ -56,15 +56,15 @@ Ensure you have Node.js and MongoDB installed on your machine.
 
 ### Clone the Repository
 
-```bash
 git clone https://github.com/yourusername/atomarcade.git
 cd atomarcade
 
 
+
 ### Run the Backend
  Navigate to the backend directory:
-```bash
 cd backend
+
 
 ### Install backend dependencies:
 ```bash
