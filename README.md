@@ -69,6 +69,7 @@ cd backend
 ### Install backend dependencies:
 ```bash
 npm install
+```
 
 
 Access the Application
