@@ -61,48 +61,12 @@ git clone https://github.com/yourusername/atomarcade.git
 cd atomarcade
 
 
-## Run the Backend
+### Run the Backend
+ Navigate to the backend directory:
+```bash
+cd backend
 
-1. Navigate to the backend directory:
-   ```bash
-   cd backend
-Install backend dependencies:
-
-bash
-Copy code
+### Install backend dependencies:
+```bash
 npm install
-Start the backend server:
 
-bash
-Copy code
-node server.js
-Run the Frontend
-Open a new terminal window and navigate back to the root directory:
-
-bash
-Copy code
-cd ..
-Install frontend dependencies:
-
-bash
-Copy code
-npm install
-Start the frontend application:
-
-bash
-Copy code
-npm run dev
-Access the Application
-Open your browser and navigate to http://localhost:3000 to access the frontend.
-
-Contributing
-Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure to follow the project's coding standards.
-
-License
-This project is licensed under the MIT License. See the LICENSE file for details.
-
-Acknowledgments
-RDKit: For cheminformatics functionalities.
-Nvidia Molmin: For advanced molecular generation.
-Ably: For real-time communication capabilities.
-Resend: For managing user authentication.
