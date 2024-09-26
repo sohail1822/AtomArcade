@@ -56,7 +56,7 @@ Ensure you have Node.js and MongoDB installed on your machine.
 
 ### Clone the Repository
 
-git clone https://github.com/yourusername/atomarcade.git
+git clone  https://github.com/sohail1822/AtomArcade.git
 cd atomarcade
 
 
@@ -102,8 +102,12 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 This project is licensed under the MIT License. See the LICENSE file for details.
 
 ### Acknowledgments
+
 RDKit: For cheminformatics functionalities.
+
 Nvidia Molmin: For advanced molecular generation.
+
 Ably: For real-time communication capabilities.
+
 Resend: For managing user authentication.
 
