@@ -31,15 +31,15 @@ AtomArcade is an innovative platform that empowers researchers and developers to
 *An overview of the dashboard, showcasing key functionalities and metrics.*
 
 ### Molecule Generation Page
-![Molecule Generation Screenshot](./public/images/Generate Molecule.png)
+![Molecule Generation Screenshot](./public/images/Generate.png)
 *Interface for generating custom molecules using SMILES notation.*
 
 ### Compound Search Page
-![Compound Search Screenshot](./public/images/Compund_Search.png)
+![Compound Search Screenshot](./public/images/Compund.png)
 *Search for compounds easily with an intuitive search functionality.*
 
 ### Real-Time Chat Page
-![Real-Time Chat Screenshot](./public/images/Research-Page.png)
+![Real-Time Chat Screenshot](./public/images/Research.png)
 *Engage in real-time discussions with team members through integrated chat.*
 
 ### Account Settings Page
