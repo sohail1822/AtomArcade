@@ -43,7 +43,7 @@ AtomArcade is an innovative platform that empowers researchers and developers to
 *Engage in real-time discussions with team members through integrated chat.*
 
 ### Account Settings Page
-![Account Settings Screenshot](./public/images/Settings.png)
+![Account Settings Screenshot](./public/images/Setting.png)
 *Manage your account settings, including password resets and theme preferences.*
 
 *(Make sure to replace the paths with the actual paths to your screenshot images.)*
