@@ -70,3 +70,19 @@ cd backend
 ```bash
 npm install
 
+
+Access the Application
+Open your browser and navigate to http://localhost:3000 to access the frontend.
+
+Contributing
+Contributions are welcome! Please fork the repository and submit a pull request with your changes. Ensure to follow the project's coding standards.
+
+License
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+Acknowledgments
+RDKit: For cheminformatics functionalities.
+Nvidia Molmin: For advanced molecular generation.
+Ably: For real-time communication capabilities.
+Resend: For managing user authentication.
+
