@@ -39,14 +39,12 @@ AtomArcade is an innovative platform that empowers researchers and developers to
 *Search for compounds easily with an intuitive search functionality.*
 
 ### Real-Time Chat Page
-![Real-Time Chat Screenshot](./public/images/Research_Page.png)
+![Real-Time Chat Screenshot](./public/images/Research-Page.png)
 *Engage in real-time discussions with team members through integrated chat.*
 
 ### Account Settings Page
 ![Account Settings Screenshot](./public/images/Setting.png)
 *Manage your account settings, including password resets and theme preferences.*
-
-*(Make sure to replace the paths with the actual paths to your screenshot images.)*
 
 ## Getting Started
 
