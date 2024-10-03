@@ -2,7 +2,7 @@ import express from 'express';
 import axios from 'axios';
 import cors from 'cors';
 
-dotenv.config(); // Load environment variables
+// dotenv.config(); // Load environment variables
 
 const app = express();
 const port = process.env.PORT || 5000; // Or any port you prefer
